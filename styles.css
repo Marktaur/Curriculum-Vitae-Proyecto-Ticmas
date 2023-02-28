@@ -110,12 +110,17 @@ a:link, a:visited {
     .contenedor4 {
         display: block;
       } 
+    .fotoperfil {
+      display: block;
+      text-align: center;
+    } 
+    .titulo {
+        display: block;
+      } 
+    
       h1 {
         text-align: center;
       }
-      .fotoperfil {
-        display: flex;
-        text-align: center;
-      }
+    
    } 
     
