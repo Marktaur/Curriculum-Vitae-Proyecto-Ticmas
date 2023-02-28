@@ -10,7 +10,7 @@ p {
     max-width: 100%;
 }
 h1 {
-    pantalla : bloque en línea ;
+    pantalla : inline-block ;
     font-family: sans-serif;
      font-size: 40px;
 }
