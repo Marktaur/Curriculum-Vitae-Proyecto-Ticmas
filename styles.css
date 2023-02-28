@@ -62,6 +62,15 @@ h1 {
         font-family: sans-serif;
             display: flex;
         }
+     .contenedor5 {
+        display: inline ;
+        width: 50%;
+    }
+    .contenedor6 {
+    
+        width: 50%;
+        display: inline;
+    }
     .fotoperfil {
             display: inline ;
             width: 30%;
