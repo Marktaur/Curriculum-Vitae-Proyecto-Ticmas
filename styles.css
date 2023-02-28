@@ -1,5 +1,4 @@
 
-
 h1 {
 font-family:  sans-serif;
 font-style: oblique;
@@ -11,7 +10,7 @@ p {
     max-width: 100%;
 }
 h1 {
-   
+    pantalla : bloque en línea ;
     font-family: sans-serif;
      font-size: 40px;
 }
@@ -42,19 +41,6 @@ figure {
     background-color: aqua; 
     display: block;
 }
-.contenedor  {
-   display: flex;
-}
-.fotoperfil {
-    display: inline ;
-    width: 50%;
-}
-.titulo {
-
-    width: 50%;
-    display: inline;
-    align-text: left;
-
 .contenedor1  {
     font-size: 20px;
     margin: 15PX;
@@ -110,17 +96,26 @@ a:link, a:visited {
     .contenedor4 {
         display: block;
       } 
-    .fotoperfil {
-      display: block;
-      text-align: center;
-    } 
-    .titulo {
-        display: block;
-      } 
-    
       h1 {
         text-align: center;
       }
-    
+      .fotoperfil {
+        display: flex;
+        text-align: center;
+      }
    } 
     
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
