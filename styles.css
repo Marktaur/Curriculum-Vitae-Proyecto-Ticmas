@@ -114,6 +114,7 @@ h1 {
           }
           .contenedor {
             display: block;
+           text-align:center;
           } 
         .titulo { 
             margin: auto;
