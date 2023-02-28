@@ -11,7 +11,7 @@ p {
     max-width: 100%;
 }
 h1 {
-    display: inline-block;
+    pantalla : bloque en línea ;
     font-family: sans-serif;
      font-size: 40px;
 }
@@ -26,7 +26,7 @@ h3 {
 *{
     
     font-family: sans-serif;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 .fotoperfil{
@@ -60,7 +60,7 @@ figure {
     display: inline;
 }
 .contenedor4  {
-    font-size: 20px;
+    tamaño de fuente : 20px ;
     margin: 15PX;
     padding: 15px;
     font-family: sans-serif;
