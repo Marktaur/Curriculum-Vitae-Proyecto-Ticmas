@@ -110,13 +110,13 @@ h1 {
           }
           .fotoperfil {
             
-            text-align: center;
+            margin:0px auto;
           }
           .contenedor {
             display: block;
           } 
         .titulo { 
-            text-align: center;
+            margin:0px auto;
         }
           
 
