@@ -40,6 +40,9 @@ h1 {
         background-color: aqua; 
         display: block;
     }
+    .contenedor  {
+        display: flex;
+         }
     .contenedor1  {
         font-size: 20px;
         margin: 15PX;
@@ -64,13 +67,14 @@ h1 {
         font-family: sans-serif;
             display: flex;
         }
-    .contenedor5 {
+    .fotoperfil {
             display: inline ;
-            width: 50%;
+            width: 30%;
         }
-    .contenedor6 {
-            width: 50%;
+    .titulo {
+            width: 70%;
             display: inline;
+            margin-top: 50px;
         
     }
     .tilde  {
@@ -88,6 +92,12 @@ h1 {
         margin-bottom: 50px;
         padding-bottom: 50px;
     }
+    @media screen and (max-width: 900px) {
+        .contenedor {
+            display: block;
+          } 
+ }
+
     @media screen and (max-width: 640px) {
         .contenedor1 {
           display: block;
@@ -99,7 +109,12 @@ h1 {
             text-align: center;
           }
           .fotoperfil {
-            display: flex;
+            
             text-align: center;
           }
+          .contenedor {
+            display: block;
+          } 
+          
+
        } 
