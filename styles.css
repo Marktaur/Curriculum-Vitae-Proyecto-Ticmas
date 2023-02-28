@@ -18,19 +18,12 @@ h1 {
         border-bottom-style: solid;
         max-width: 400px;
         text-align: left;
-        border-color: rgb(106, 68, 177);;
-         ;
+        border-color: rgb(106, 68, 177);
+         
     }
     *{
-        
-        font-family: sans-serif;
-        
-    }
-    
-    .fotoperfil{
-        display: inline-flex;
-      ;
-    }
+       font-family: sans-serif;
+     }
     figure {
         border-radius: 100%;
         width: 200px;
@@ -70,6 +63,8 @@ h1 {
     .fotoperfil {
             display: inline ;
             width: 30%;
+            margin-left: auto;
+            margin-right: auto;
         }
     .titulo {
             width: 70%;
