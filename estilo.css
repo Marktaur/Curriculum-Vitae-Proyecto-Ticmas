@@ -136,3 +136,12 @@ footer.volver {
     margin-bottom: 30px;
     
 }
+@media screen and (max-width: 640px) {
+
+    .redes {
+        font-size: 30px;
+     }
+     .titulo h1{
+    
+        font-size: 30px;
+ }
