@@ -113,9 +113,15 @@ main{
     font-size: 20px;
 }
 .seccion1 {
-    margin-top: 125px;
+    margin-top: 150px;
+     }
+.seccion1 p{
+    margin-left: 15%;
+    margin-right: 15%;
+    
     max-width: 100%;
     text-align: center;
+    
 }
 
 
