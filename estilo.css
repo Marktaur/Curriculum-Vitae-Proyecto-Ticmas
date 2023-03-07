@@ -1,0 +1,132 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=PT+Sans:ital,wght@0,400;1,400;1,700&family=Titillium+Web:wght@300&display=swap');
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+header {
+    background-image: url(fondo\ diurno.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: block;
+    max-width: 100%;
+    height: 500px;
+
+}
+nav {
+    height: 60px;
+}
+
+header nav a{
+    display: inline;
+    color:rgb(255, 255, 255);
+    margin-left: 40px;
+    text-align:left;
+    text-decoration: none;
+    font-size: 20px;
+    transition: .3;
+}
+header nav a:hover{
+   color: rgb(201, 164, 236);
+   box-shadow: 0 0 20px rgb(212, 176, 247);;
+
+}
+.titulo{
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+.titulo{
+   
+   
+    max-width: 100%;
+    margin-top: 30px;
+    color:rgb(255, 255, 255);
+}
+.titulo h1{
+    
+    font-size: 50px;
+}
+.logo{
+    margin-top: 70px;
+   
+}
+.logo h1.marktaur{
+    font-style: oblique;
+    box-shadow: 0 0 30px rgb(255, 255, 255);
+    width: 180px;
+    height: 70%;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    
+}
+
+.redes {
+    font-size: 50px;
+    
+}
+.redes a {
+    color: rgb(255, 255, 255);
+    margin: 15px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    transition: .3;
+    line-height: 40px;
+
+}
+.redes a:hover{
+    color: rgb(201, 164, 236);
+    box-shadow: 0 0 20px rgb(212, 176, 247);;
+}
+.foto {
+    height: 250px;
+    
+}
+.foto figure {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    
+}
+
+main{
+    text-align: center;
+    background-color: rgb(205, 146, 240);
+    background: linear-gradient(rgb(255, 255, 255),rgb(205, 146, 240));
+    font-size: 20px;
+}
+.seccion1 {
+    margin-top: 125px;
+    max-width: 100%;
+    text-align: center;
+}
+
+
+footer.copy{
+    margin-top: 40px;
+    text-align: center;
+}
+footer.volver {
+    text-align: right;
+    font-size: 35px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    
+}
